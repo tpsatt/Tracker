@@ -1,0 +1,36 @@
+#container {
+	width:80%;
+	margin:auto;
+	margin-top:20px;
+	margin-bottom:40px;
+}
+
+#title {
+	width:90%;
+	margin:auto;
+	margin-top:20px;
+}
+
+#form-title {
+	text-align:center;
+	margin-top:20px;
+}
+
+#form-container {
+	width:300px;
+	margin:auto;
+	margin-top:20px;
+	margin-bottom:40px;
+}
+
+#chart {
+	margin:auto;
+}
+
+#error {
+	display:none;
+	margin:auto;
+	margin-top:20px;
+	margin-bottom:20px;
+	width:90%;
+}
